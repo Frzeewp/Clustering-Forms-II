@@ -56,8 +56,3 @@ Where:
 + $TN$ = pairs of data that are in different clusters in both the prediction and the ground truth
 + $FP$ = pairs of data that are grouped together in the prediction, but are different in the ground truth
 + $FN$ = pairs of data that are grouped differently in the prediction, but are the same in the ground truth
-
-### Range of values
-+ Minimum: -1.0 (clustering is worse than random)
-+ Random value: ~0.0 (random clustering)
-+ Maximum: 1.0 (perfect clustering)
